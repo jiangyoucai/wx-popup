@@ -1,0 +1,10 @@
+{
+  "publicComponents": {
+    "hello-component": "components/hello-component",
+    "popup": "components/popup/popup"
+  },
+  "pages": {
+    "hello-page": "pages/hello-page"
+  },
+  "main": "index.js"
+}

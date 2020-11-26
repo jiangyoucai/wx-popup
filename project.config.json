@@ -1,0 +1,13 @@
+{
+  "miniprogramRoot": "miniprogram/",
+  "pluginRoot": "plugin/",
+  "compileType": "plugin",
+  "setting": {
+    "useMultiFrameRuntime": true,
+    "bundle": false,
+    "useApiHook": true
+  },
+  "appid": "wx861b6ed61550d0a3",
+  "projectname": "wx-popup",
+  "condition": {}
+}
